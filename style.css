@@ -12,5 +12,11 @@ h1 {
 
 button
 {
-  
+  font-family: Montserrat;
+}
+
+@font-face
+{
+  font-Family: Montserrat;
+  src: url(Montserrat:wght@700)
 }
